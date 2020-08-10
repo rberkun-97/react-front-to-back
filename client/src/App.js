@@ -16,7 +16,6 @@ const App = () => {
             <Route exact path="/about" component={About} />
           </Switch>
         </div>
-        My App
       </React.Fragment>
     </Router>
   );
